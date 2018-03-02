@@ -7,7 +7,7 @@ public class PositiveTests {
     public void isPositive(){
         boolean positive = Positive.isPositive();
 
-        Assert.assertTrue(positive);
+        Assert.assertTrue(false);
 
     }
 
