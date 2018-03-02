@@ -1,5 +1,5 @@
+import org.junit.Assert;
 import org.junit.Test;
-import sun.jvm.hotspot.utilities.Assert;
 
 public class PositiveTests {
 
@@ -7,7 +7,7 @@ public class PositiveTests {
     public void isPositive(){
         boolean positive = Positive.isPositive();
 
-        Assert.that(positive,"Is not true");
+        Assert.assertTrue(positive);
 
     }
 
