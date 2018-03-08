@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Bogus {
+public class BogusTest {
 
     @Test
     public void bogus() {

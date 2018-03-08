@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class PositiveTests {
+public class PositiveTest {
 
     @Test
     public void isPositive(){
